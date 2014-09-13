@@ -1,4 +1,6 @@
 HBVLinkedTextView
 =================
 
-UITextView subclass that lets you set a block to be executed when a user taps a specified word, phrase, or regex match.
+UITextView subclass that executes a block and updates text attributes when a user taps a specified word or phrase.
+
+
