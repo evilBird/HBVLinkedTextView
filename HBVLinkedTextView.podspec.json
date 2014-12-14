@@ -4,10 +4,7 @@
   "summary": "UITextView subclass with blocks-based support for linked text",
   "description": "UITextView subclass that executes a block when a user taps a specified word or phrase.\n",
   "homepage": "https://github.com/evilBird/HBVLinkedTextView",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "license": "MIT",
   "authors": [
     "Travis Henspeter"
   ],
